@@ -34,7 +34,7 @@ To transform raw retail data into an interactive dashboard that provides meaning
 
 ## 🔗 Live Dashboard
 
-[View the Interactive Power BI Dashboard](YOUR_PUBLIC_POWER_BI_LINK)
+[View the Interactive Power BI Dashboard](https://app.powerbi.com/links/svLKDYnDJy?ctid=56c1d497-700b-49cf-8f8d-3dd6b20d522f&pbi_source=linkShare&bookmarkGuid=075cd6c2-f8b0-40f2-aa94-1d426c3412e8)
 
 ## 👤 Author
 
